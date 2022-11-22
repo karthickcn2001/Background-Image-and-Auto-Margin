@@ -1,0 +1,43 @@
+.img {
+    background-image: url('./food.png');
+    background-size: 100%;
+    height: 500px;
+    
+}
+.bgColor {
+    background-color: red;
+    height: 80px;
+    width: 100%;
+}
+
+#loginbutton{
+    border: 2px solid purple;
+    width: 80%;
+    height: 75px;
+    margin: auto;
+    text-align: right;
+    line-height: 80px;
+
+}
+
+
+
+#login{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    color: white;
+    height: 50px;
+    font-size: medium;
+    border: none;
+}
+#newAccount{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    color: white;
+    height: 50px;
+    font-size: medium;
+    border: 1px solid white;
+    border-radius:5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
